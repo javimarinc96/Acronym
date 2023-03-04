@@ -1,3 +1,5 @@
+![acronym](https://user-images.githubusercontent.com/44240533/222924174-f2dfb228-b018-41c9-98e8-9f77d79ded8a.svg)
+
 # Acronym
 
 Welcome to Acronym on Exercism's Java Track.
